@@ -1,0 +1,43 @@
+/* Custom CSS for Data Calon Mahasiswa */
+
+/* Style for table header */
+.table thead th {
+    background-color: #f8f9fc;
+    color: #6c757d;
+}
+
+/* Style for table rows */
+.table tbody tr:nth-of-type(odd) {
+    background-color: #f3f4f6;
+}
+
+/* Style for buttons */
+.btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+.btn-primary:hover {
+    background-color: #2e59d9;
+    border-color: #2653d4;
+}
+
+.btn-info {
+    background-color: #36b9cc;
+    border-color: #36b9cc;
+}
+
+.btn-info:hover {
+    background-color: #2a96a6;
+    border-color: #25858c;
+}
+
+.btn-danger {
+    background-color: #e74a3b;
+    border-color: #e74a3b;
+}
+
+.btn-danger:hover {
+    background-color: #e63c2e;
+    border-color: #d6382a;
+}
